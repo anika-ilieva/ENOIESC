@@ -74,10 +74,7 @@ Method2 aims to change the internal architecture of the neural OIE model Multi^2
 
 ### Install
 - in Repository run: ```poetry install```
-
-### Expose Kernel for Jupyter Notebook
-- go into the poetry environment with ```poetry shell```
-- execute in poetry shell: ```python3 -m ipykernel install --user --name=oie_ani```
+- to execute scripts enter the environment with ```poetry shell```
 
 ### Install Spacy Pipeline
 - go into the poetry environment with ```poetry shell```
