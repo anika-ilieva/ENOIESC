@@ -1,0 +1,817 @@
+sent_id:1	Using the search functionality , police personnel can search for a particular person , type of crime , modus operandi , property etc .
+1--> Cluster 1:
+police personnel --> can search --> for [a] [particular] person
+police personnel --> can search for --> [a] [particular] person
+police personnel --> can search --> for [a] [particular] person Using [the] search functionality
+police personnel --> can search for --> [a] [particular] person Using [the] search functionality
+police personnel --> can --> search for [a] [particular] person
+police personnel --> can --> search for [a] [particular] person Using [the] search functionality
+1--> Cluster 2:
+police personnel --> can search --> for [a] [particular] type of crime
+police personnel --> can search for --> [a] [particular] type of crime
+police personnel --> can search --> for [a] [particular] type of crime Using [the] search functionality
+police personnel --> can search for --> [a] [particular] type of crime Using [the] search functionality
+police personnel --> can --> search for [a] [particular] type of crime
+police personnel --> can --> search for [a] [particular] type of crime Using [the] search functionality
+1--> Cluster 3:
+police personnel --> can search --> for [a] [particular] modus operandi
+police personnel --> can search for --> [a] [particular] modus operandi
+police personnel --> can search --> for [a] [particular] modus operandi Using [the] search functionality
+police personnel --> can search for --> [a] [particular] modus operandi Using [the] search functionality
+police personnel --> can --> search for [a] [particular] modus operandi
+police personnel --> can --> search for [a] [particular] modus operandi Using [the] search functionality
+1--> Cluster 4:
+police personnel --> can search --> for [a] [particular] property
+police personnel --> can search for --> [a] [particular] property
+police personnel --> can search --> for [a] [particular] property Using [the] search functionality
+police personnel --> can search for --> [a] [particular] property Using [the] search functionality
+police personnel --> can --> search for [a] [particular] property
+police personnel --> can --> search for [a] [particular] property Using [the] search functionality
+1--> Cluster 5:
+police personnel --> Using --> [the] search functionality
+
+sent_id:2	It also gives the user the ability to customize the results view by criminal or by cases .
+2--> Cluster 1:
+It --> [also] gives --> [the] user [the] ability to customize [the] results view
+It --> [also] gives --> [the] user [the] ability to customize [the] results view by criminal
+It --> [also] gives --> [the] user [the] ability to customize [the] results view by cases
+2--> Cluster 2:
+[the] ability --> [to] customize --> [the] results view 
+[the] ability --> [to] customize --> [the] results view by criminal
+[the] ability --> [to] customize --> [the] results view by cases
+
+sent_id:3	Citizens can use it as a tool to get information or acknowledgements from police .
+3--> Cluster 1:
+Citizens --> [can] use --> it
+Citizens --> [can] use --> it as [a] tool
+Citizens --> [can] use --> it as [a] tool to get information from police
+Citizens --> [can] use --> it as [a] tool to get acknowledgements from police
+3--> Cluster 2:
+[a] tool --> to get --> information from police
+3--> Cluster 3:
+[a] tool --> to get --> acknowledgements from police
+
+sent_id:4	It shows information such as cases assigned , alerts , pending tasks etc . hence helping police personnel to plan better and execute with greater efficiency .
+4--> Cluster 1:
+It --> shows --> information
+4--> Cluster 2:
+It --> shows --> cases assigned
+4--> Cluster 3:
+It --> shows --> alerts
+4--> Cluster 4:
+It --> shows --> pending tasks
+4--> Cluster 5:
+It --> helping --> police personnel
+It --> helping --> police personnel to plan better
+It --> helping --> police personnel to execute with greater efficiency
+4--> Cluster 6:
+police personnel --> [to] execute --> with greater efficiency
+4--> Cluster 7:
+police personnel --> [to] plan --> better
+
+sent_id:5	With a proper configuration , information such as act and sections , state specific data , castes , tribes , property information etc . can be created , updated and deleted .
+5--> Cluster 1:
+information --> can be created --> With [a] [proper] configuration
+information --> can be --> created With [a] [proper] configuration
+5--> Cluster 2:
+information --> can be updated --> With [a] [proper] configuration
+information --> can be --> updated With [a] [proper] configuration
+5--> Cluster 3:
+information --> can be deleted --> With [a] [proper] configuration
+information --> can be --> deleted With [a] [proper] configuration
+5--> Cluster 4:
+act --> can be created --> With [a] [proper] configuration
+act --> can be --> created With [a] [proper] configuration
+5--> Cluster 5:
+sections --> can be created --> With [a] [proper] configuration
+sections --> can be --> created With [a] [proper] configuration
+5--> Cluster 6:
+state specific data --> can be created --> With [a] [proper] configuration
+state specific data --> can be --> created With [a] [proper] configuration
+5--> Cluster 7:
+castes --> can be created --> With [a] [proper] configuration
+castes --> can be --> created With [a] [proper] configuration
+5--> Cluster 8:
+tribes --> can be created --> With [a] [proper] configuration
+tribes --> can be --> created With [a] [proper] configuration
+5--> Cluster 9:
+property information --> can be created --> With [a] [proper] configuration
+property information --> can be --> created With [a] [proper] configuration
+5--> Cluster 10:
+act --> can be updated --> With [a] [proper] configuration
+act --> can be --> updated With [a] [proper] configuration
+5--> Cluster 11:
+sections --> can be updated --> With [a] [proper] configuration
+sections --> can be --> updated With [a] [proper] configuration
+5--> Cluster 12:
+state specific data --> can be updated --> With [a] [proper] configuration
+state specific data --> can be --> updated With [a] [proper] configuration
+5--> Cluster 13:
+castes --> can be updated --> With [a] [proper] configuration
+castes --> can be --> updated With [a] [proper] configuration
+5--> Cluster 14:
+tribes --> can be updated --> With [a] [proper] configuration
+tribes --> can be --> updated With [a] [proper] configuration
+5--> Cluster 15:
+property information --> can be updated --> With [a] [proper] configuration
+property information --> can be --> updated With [a] [proper] configuration
+5--> Cluster 16:
+act --> can be deleted --> With [a] [proper] configuration
+act --> can be --> deleted With [a] [proper] configuration
+5--> Cluster 17:
+sections --> can be deleted --> With [a] [proper] configuration
+sections --> can be --> deleted With [a] [proper] configuration
+5--> Cluster 18:
+state specific data --> can be deleted --> With [a] [proper] configuration
+state specific data --> can be --> deleted With [a] [proper] configuration
+5--> Cluster 19:
+castes --> can be deleted --> With [a] [proper] configuration
+castes --> can be --> deleted With [a] [proper] configuration
+5--> Cluster 20:
+tribes --> can be deleted --> With [a] [proper] configuration
+tribes --> can be --> deleted With [a] [proper] configuration
+5--> Cluster 21:
+property information --> can be deleted --> With [a] [proper] configuration
+property information --> can be --> deleted With [a] [proper] configuration
+
+sent_id:6	The non-functional requirements specify the qualitative attributes such as user-friendliness and performance of the system that are critical for the increased user-acceptance of the application .
+6--> Cluster 1:
+[The] non-functional requirements --> specify --> [the] qualitative attributes [of] [the] [system]
+[The] non-functional requirements --> specify --> [the] qualitative attributes [of] [the] [system] that are critical
+[The] non-functional requirements --> specify --> [the] qualitative attributes [of] [the] [system] that are critical for [the] [increased] user-acceptance of [the] application
+6--> Cluster 2:
+[The] non-functional requirements --> specify --> [the] user-friendliness [of] [the] [system]
+[The] non-functional requirements --> specify --> [the] user-friendliness [of] [the] [system] that are critical
+[The] non-functional requirements --> specify --> [the] user-friendliness [of] [the] [system] that are critical for [the] [increased] user-acceptance of [the] application
+6--> Cluster 3:
+[The] non-functional requirements --> specify --> [the] performance [of] [the] [system]
+[The] non-functional requirements --> specify --> [the] performance [of] [the] [system] that are critical
+[The] non-functional requirements --> specify --> [the] performance [of] [the] [system] that are critical for [the] [increased] user-acceptance of [the] application
+6--> Cluster 4:
+[the] qualitative attributes --> are --> critical for [the] [increased] user-acceptance [of] [the] [application]
+6--> Cluster 5:
+[the] user-friendliness --> are --> critical for [the] [increased] user-acceptance [of] [the] [application]
+6--> Cluster 6:
+[the] performance --> are --> critical for [the] [increased] user-acceptance [of] [the] [application]
+
+sent_id:7	The solution should enable the user to track the submitted defect or enhancement request .
+7--> Cluster 1:
+[The] solution --> [should] enable --> [the] user to track [the] submitted defect
+[The] solution --> [should] enable --> [the] user to track [the] enhancement request
+7--> Cluster 2:
+[the] user --> to track --> [the] enhancement request
+7--> Cluster 3:
+[the] user --> to track --> [the] submitted defect
+
+sent_id:8	An audit trail is a record of actions taken by either the user or the system triggers .
+8--> Cluster 1:
+[An] audit trail --> is --> [a] record of actions 
+[An] audit trail --> is --> [a] record of actions taken by [the] user
+[An] audit trail --> is --> [a] record of actions taken by [the] system triggers
+8--> Cluster 2:
+[a] [record of] actions --> taken --> by [the] user
+[a] [record of] actions --> taken by --> [the] user
+8--> Cluster 3:
+[a] [record of] actions --> taken --> by [the] system triggers
+[a] [record of] actions --> taken by --> [the] system triggers
+
+sent_id:9	This includes actions taken by users or Administrators , or actions initiated automatically by the system as a result of system parameters .
+9--> Cluster 1:
+This --> includes --> actions
+This --> includes --> actions taken by users
+This --> includes --> actions taken by Administrators
+This --> includes --> actions initiated [automatically] by [the] system
+This --> includes --> actions initiated [automatically] by [the] system as [a] result of system parameters
+9--> Cluster 2:
+actions --> taken --> by users
+actions --> taken by --> users
+9--> Cluster 3:
+actions --> taken --> by Administrators
+actions --> taken by --> Administrators
+
+sent_id:10	The System must employ a single set of user interface rules , or a small number of sets to provide a familiar and common look and feel for the application .
+10--> Cluster 1:
+[The] System --> must employ --> [a] single set of user interface rules
+[The] System --> must --> employ [a] single set of user interface rules
+10--> Cluster 2:
+[The] System --> must employ --> [a] small number of sets
+[The] System --> must --> employ [a] small number of sets
+10--> Cluster 3:
+[a] single set of user interface rules --> to provide --> [a] familiar look
+[a] single set of user interface rules --> to provide --> [a] familiar look for [the] application
+10--> Cluster 4:
+[a] single set of user interface rules --> to provide --> [a] familiar feel
+[a] single set of user interface rules --> to provide --> [a] familiar feel for [the] application
+10--> Cluster 5:
+[a] small number of sets --> to provide --> [a] familiar look
+[a] small number of sets --> to provide --> [a] familiar look for [the] application
+10--> Cluster 6:
+[a] small number of sets --> to provide --> [a] familiar feel
+[a] small number of sets --> to provide --> [a] familiar feel for [the] application
+
+sent_id:11	All non-text media objects , such as graphical images or video , should be provided with alternative equivalent textual descriptions and / or with equivalent text-based functionality .
+11--> Cluster 1:
+[All] non-text media objects --> should be --> provided with alternative equivalent textual descriptions
+[All] non-text media objects --> should be provided with --> alternative equivalent textual descriptions
+[All] non-text media objects --> should be provided --> with alternative equivalent textual descriptions
+11--> Cluster 2:
+[All] non-text media objects --> should be --> provided with equivalent text-based functionality
+[All] non-text media objects --> should be provided with --> equivalent text-based functionality
+[All] non-text media objects --> should be provided --> with equivalent text-based functionality
+11--> Cluster 3:
+graphical images --> should be --> provided with alternative equivalent textual descriptions
+graphical images --> should be provided with --> alternative equivalent textual descriptions
+graphical images --> should be provided --> with alternative equivalent textual descriptions
+11--> Cluster 4:
+graphical images --> should be --> provided with equivalent text-based functionality
+graphical images --> should be provided with --> equivalent text-based functionality
+graphical images --> should be provided --> with equivalent text-based functionality
+11--> Cluster 5:
+video --> should be --> provided with alternative equivalent textual descriptions
+video --> should be provided with --> alternative equivalent textual descriptions
+video --> should be provided --> with alternative equivalent textual descriptions
+11--> Cluster 6:
+video --> should be --> provided with equivalent text-based functionality
+video --> should be provided with --> equivalent text-based functionality
+video --> should be provided --> with equivalent text-based functionality
+
+sent_id:12	Links that open new browser windows or pop-up windows should be clearly marked .
+12--> Cluster 1:
+Links --> should be --> [clearly] marked
+Links that open new browser windows --> should be --> [clearly] marked
+Links that open pop-up windows --> should be --> [clearly] marked
+12--> Cluster 2:
+Links --> open --> new browser windows
+12--> Cluster 3:
+Links --> open --> pop-up windows
+
+sent_id:13	Fast skimming of text should be supported by the provision of clear links , bulleted lists , highlighted keywords , logical headings , and short phrases and sentences .
+13--> Cluster 1:
+[Fast] skimming of text --> should be --> supported by [the] provision of clear links
+[Fast] skimming of text --> should be supported by --> [the] provision of clear links
+[Fast] skimming of text --> should be supported --> by [the] provision of clear links
+13--> Cluster 2:
+[Fast] skimming of text --> should be --> supported by bulleted lists
+[Fast] skimming of text --> should be supported by --> bulleted lists
+[Fast] skimming of text --> should be supported --> by bulleted lists
+13--> Cluster 3:
+[Fast] skimming of text --> should be --> supported by highlighted keywords
+[Fast] skimming of text --> should be supported by --> highlighted keywords
+[Fast] skimming of text --> should be supported --> by highlighted keywords
+13--> Cluster 4:
+[Fast] skimming of text --> should be --> supported by logical headings
+[Fast] skimming of text --> should be supported by --> logical headings
+[Fast] skimming of text --> should be supported --> by logical headings
+13--> Cluster 5:
+[Fast] skimming of text --> should be --> supported by short phrases
+[Fast] skimming of text --> should be supported by --> short phrases
+[Fast] skimming of text --> should be supported --> by short phrases
+13--> Cluster 6:
+[Fast] skimming of text --> should be --> supported by short sentences
+[Fast] skimming of text --> should be supported by --> short sentences
+[Fast] skimming of text --> should be supported --> by short sentences
+
+sent_id:14	The reading and understanding of the textual content on the screen should be supported by suitable means , including the use of short sentences , the division of the text into shorter chunks or the presentation of content items in the form of bullet points .
+14--> Cluster 1:
+[The] reading of [the] textual content [on] [the] [screen] --> should be --> supported by suitable means
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported by --> suitable means
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported --> by suitable means
+14--> Cluster 2:
+[The] understanding of [the] textual content [on] [the] [screen] --> should be --> supported by suitable means
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported by --> suitable means
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported --> by suitable means
+14--> Cluster 3:
+[The] reading of [the] textual content [on] [the] [screen] --> should be --> supported by [the] use of short sentences
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported by --> [the] use of short sentences
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported --> by [the] use of short sentences
+14--> Cluster 4:
+[The] understanding of [the] textual content [on] [the] [screen] --> should be --> supported by [the] use of short sentences
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported by --> [the] use of short sentences
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported --> by [the] use of short sentences
+14--> Cluster 5:
+[The] reading of [the] textual content [on] [the] [screen] --> should be --> supported by [the] division of [the] text into shorter chunks
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported by --> [the] division of [the] text into shorter chunks
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported --> by [the] division of [the] text into shorter chunks
+14--> Cluster 6:
+[The] understanding of [the] textual content [on] [the] [screen] --> should be --> supported by [the] division of [the] text into shorter chunks
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported by --> [the] division of [the] text into shorter chunks
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported --> by [the] division of [the] text into shorter chunks
+14--> Cluster 7:
+[The] reading of [the] textual content [on] [the] [screen] --> should be --> supported by [the] presentation of content [items] in [the] [form of] bullet points
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported by --> [the] presentation of content [items] in [the] [form of] bullet points
+[The] reading of [the] textual content [on] [the] [screen] --> should be supported --> by [the] presentation of content [items] in [the] [form of] bullet points
+14--> Cluster 8:
+[The] understanding of [the] textual content [on] [the] [screen] --> should be --> supported by [the] presentation of content [items] in [the] [form of] bullet points
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported by --> [the] presentation of content [items] in [the] [form of] bullet points
+[The] understanding of [the] textual content [on] [the] [screen] --> should be supported --> by [the] presentation of content [items] in [the] [form of] bullet points
+14--> Cluster 9:
+suitable means --> including --> [the] use of short sentences
+14--> Cluster 10:
+suitable means --> including --> [the] division of [the] text into shorter chunks
+14--> Cluster 11:
+suitable means --> including --> [the] presentation of content [items] in [the] [form of] bullet points
+
+sent_id:15	Short pages are generally more appropriate for homepages , navigation pages , or overview pages that need to be read quickly .
+15--> Cluster 1:
+Short pages --> are --> [generally] more appropriate for homepages
+Short pages --> are --> [generally] more appropriate for navigation pages
+Short pages --> are --> [generally] more appropriate for overview pages
+Short pages --> are --> [generally] more appropriate for homepages that need to be read quickly
+Short pages --> are --> [generally] more appropriate for navigation pages that need to be read quickly
+Short pages --> are --> [generally] more appropriate for overview pages that need to be read quickly
+
+sent_id:16	Some users may have difficulties in perceiving certain colors or color combinations .
+16--> Cluster 1:
+[Some] users --> may --> have difficulties
+[Some] users --> may --> have difficulties in perceiving [certain] colors
+[Some] users --> may --> have difficulties in perceiving [certain] color combinations
+[Some] users --> may have --> difficulties in perceiving [certain] colors
+[Some] users --> may have --> difficulties in perceiving [certain] color combinations
+
+sent_id:17	Typical action types in user interfaces include manipulating application data , performing searches , communication actions , such as opening a new e-mail window or starting a chat function , and presentation-related actions , such as sorting a list of search results .
+17--> Cluster 1:
+[Typical] action types [in user interfaces] --> include --> manipulating application data
+17--> Cluster 2:
+[Typical] action types [in user interfaces] --> include --> performing searches
+17--> Cluster 3:
+[Typical] action types [in user interfaces] --> include --> communication actions
+17--> Cluster 4:
+[Typical] action types [in user interfaces] --> include --> opening [a] [new] e-mail window
+17--> Cluster 5:
+[Typical] action types [in user interfaces] --> include --> starting [a] chat function
+17--> Cluster 6:
+[Typical] action types [in user interfaces] --> include --> presentation-related actions
+17--> Cluster 7:
+[Typical] action types [in user interfaces] --> include --> sorting [a] list of search results
+
+sent_id:18	This document draws insight from the Web Store System Overview , Functional Needs Statement , and Stakeholder Goals List .
+18--> Cluster 1:
+[This] document --> draws --> insight
+[This] document --> draws --> insight from [the] Web Store System Overview
+[This] document --> draws --> insight from [the] Stakeholder Goals List
+[This] document --> draws --> insight from [the] Functional Needs Statement
+
+sent_id:19	Web Store shall operate on an Intel based system with Slackware Linux 2.6 and Apache Web Server .
+19--> Cluster 1:
+Web Store --> shall --> operate on [an] Intel based system
+Web Store --> shall operate --> on [an] Intel based system
+Web Store --> shall operate on --> [an] Intel based system
+Web Store --> shall --> operate on [an] Intel based system with Slackware Linux 2.6
+Web Store --> shall operate --> on [an] Intel based system with Slackware Linux 2.6
+Web Store --> shall operate on --> [an] Intel based system with Slackware Linux 2.6
+Web Store --> shall --> operate on [an] Intel based system with Apache Web Server
+Web Store --> shall operate --> on [an] Intel based system with Apache Web Server
+Web Store --> shall operate on --> [an] Intel based system with Apache Web Server
+
+sent_id:20	Compatibility is only tested and verified for Microsoft Internet Explorer version 6 and 7 , Netscape Communicator Version 4 and 5 .
+20--> Cluster 1:
+Compatibility --> is --> [only] tested for Microsoft Internet Explorer version 6
+Compatibility --> is [only] tested --> for Microsoft Internet Explorer version 6
+Compatibility --> is [only] tested for --> Microsoft Internet Explorer version 6
+20--> Cluster 2:
+Compatibility --> is --> [only] tested for Microsoft Internet Explorer version 7
+Compatibility --> is [only] tested --> for Microsoft Internet Explorer version 7
+Compatibility --> is [only] tested for --> Microsoft Internet Explorer version 7
+20--> Cluster 3:
+Compatibility --> is --> [only] tested for Netscape Communicator Version 4
+Compatibility --> is [only] tested --> for Netscape Communicator Version 4
+Compatibility --> is [only] tested for --> Netscape Communicator Version 4
+20--> Cluster 4:
+Compatibility --> is --> [only] tested for Netscape Communicator Version 5
+Compatibility --> is [only] tested --> for Netscape Communicator Version 5
+Compatibility --> is [only] tested for --> Netscape Communicator Version 5
+20--> Cluster 5:
+Compatibility --> is --> [only] verified for Microsoft Internet Explorer version 6
+Compatibility --> is [only] verified --> for Microsoft Internet Explorer version 6
+Compatibility --> is [only] verified for --> Microsoft Internet Explorer version 6
+20--> Cluster 6:
+Compatibility --> is --> [only] verified for Microsoft Internet Explorer version 7
+Compatibility --> is [only] verified --> for Microsoft Internet Explorer version 7
+Compatibility --> is [only] verified for --> Microsoft Internet Explorer version 7
+20--> Cluster 7:
+Compatibility --> is --> [only] verified for Netscape Communicator Version 4
+Compatibility --> is [only] verified --> for Netscape Communicator Version 4
+Compatibility --> is [only] verified for --> Netscape Communicator Version 4
+20--> Cluster 8:
+Compatibility --> is --> [only] verified for Netscape Communicator Version 5
+Compatibility --> is [only] verified --> for Netscape Communicator Version 5
+Compatibility --> is [only] verified for --> Netscape Communicator Version 5
+
+sent_id:21	Customers will be able to create accounts to store their profiles , contact information , purchase history , and confirm orders .
+21--> Cluster 1:
+Customers --> [will] be able to --> create accounts
+Customers --> [will] be able to --> create accounts to store [their] profiles
+Customers --> [will] be able to --> create accounts to store [their] contact information
+Customers --> [will] be able to --> create accounts to store [their] purchase history
+Customers --> [will] be able to --> create accounts to confirm orders
+Customers --> [will] be able to create --> accounts
+Customers --> [will] be able to create --> accounts to store [their] profiles
+Customers --> [will] be able to create --> accounts to store [their] contact information
+Customers --> [will] be able to create --> accounts to store [their] purchase history
+Customers --> [will] be able to create --> accounts to confirm orders
+21--> Cluster 2:
+accounts --> to store --> [their] profiles
+21--> Cluster 3:
+accounts --> to store --> [their] contact information
+21--> Cluster 4:
+accounts --> to store --> [their] purchase history
+21--> Cluster 5:
+accounts --> to confirm --> orders
+
+sent_id:22	The inventory management will allow for administrators to update the categories , the products placed in categories , and the specific product details .
+22--> Cluster 1:
+[The] inventory management --> [will] allow --> for administrators to update [the] categories
+[The] inventory management --> [will] allow for --> administrators to update [the] categories
+[The] inventory management --> [will] allow --> for administrators to update [the] products placed in categories
+[The] inventory management --> [will] allow for --> administrators to update [the] products placed in categories
+[The] inventory management --> [will] allow --> for administrators to update [the] [specific] product details
+[The] inventory management --> [will] allow for --> administrators to update [the] [specific] product details
+22--> Cluster 2:
+administrators --> to update --> [the] categories
+22--> Cluster 3:
+administrators --> to update --> [the] products placed in categories
+22--> Cluster 4:
+administrators --> to update --> [the] [specific] product details
+
+sent_id:23	The customer will also be able to add to or remove products from the shopping cart prior to checkout and order confirmation .
+23--> Cluster 1:
+[The] customer --> [will] [also] be able to --> add to [the] shopping cart
+[The] customer --> [will] [also] be able to --> add to [the] shopping cart prior to checkout
+[The] customer --> [will] [also] be able to --> add to [the] shopping cart prior to order confirmation
+23--> Cluster 2:
+[The] customer --> [will] [also] [be able to] add to --> [the] shopping cart
+[The] customer --> [will] [also] [be able to] add to --> [the] shopping cart prior to checkout
+[The] customer --> [will] [also] [be able to] add to --> [the] shopping cart prior to order confirmation
+[The] customer --> [will] [also] [be able to] add --> to [the] shopping cart
+[The] customer --> [will] [also] [be able to] add --> to [the] shopping cart prior to checkout
+[The] customer --> [will] [also] [be able to] add --> to [the] shopping cart prior to order confirmation
+23--> Cluster 3:
+[The] customer --> [will] [also] [be able to] add to [the] shopping cart --> prior to checkout
+[The] customer --> [will] [also] [be able to] add to [the] shopping cart --> prior to order confirmation
+23--> Cluster 4:
+[The] customer --> [will] [also] [be able to] add to [the] shopping cart prior --> to checkout
+[The] customer --> [will] [also] [be able to] add to [the] shopping cart prior to --> checkout
+23--> Cluster 5:
+[The] customer --> [will] [also] [be able to] add to [the] shopping cart prior --> to order confirmation
+[The] customer --> [will] [also] [be able to] add to [the] shopping cart prior to --> order confirmation
+23--> Cluster 6:
+[The] customer --> [will] [also] be able to --> remove products from [the] shopping cart
+[The] customer --> [will] [also] be able to --> remove products from [the] shopping cart prior to checkout
+[The] customer --> [will] [also] be able to --> remove products from [the] shopping cart prior to order confirmation
+[The] customer --> [will] [also] be able --> to remove products from [the] shopping cart
+[The] customer --> [will] [also] be able --> to remove products from [the] shopping cart prior to checkout
+[The] customer --> [will] [also] be able --> to remove products from [the] shopping cart prior to order confirmation
+23--> Cluster 7:
+[The] customer --> [will] [also] [be able to] remove products from --> [the] shopping cart
+[The] customer --> [will] [also] [be able to] remove products from --> [the] shopping cart prior to checkout
+[The] customer --> [will] [also] [be able to] remove products from --> [the] shopping cart prior to order confirmation
+[The] customer --> [will] [also] [be able to] remove products --> from [the] shopping cart
+[The] customer --> [will] [also] [be able to] remove products --> from [the] shopping cart prior to checkout
+[The] customer --> [will] [also] [be able to] remove products --> from [the] shopping cart prior to order confirmation
+
+sent_id:24	Customers will be presented with an unambiguous interface to assist in browsing the categories and products .
+24--> Cluster 1:
+Customers --> [will] be presented --> with [an] unambiguous interface
+Customers --> [will] be presented with --> [an] unambiguous interface
+Customers --> [will] be presented --> with [an] unambiguous interface to assist in browsing [the] categories
+Customers --> [will] be presented with --> [an] unambiguous interface to assist in browsing [the] categories
+Customers --> [will] be presented --> with [an] unambiguous interface to assist in browsing [the] products
+Customers --> [will] be presented with --> [an] unambiguous interface to assist in browsing [the] products
+24--> Cluster 2:
+[an] unambiguous interface --> to assist --> in browsing [the] categories
+[an] unambiguous interface --> to assist in --> browsing [the] categories
+[an] unambiguous interface --> to assist --> in browsing [the] products
+[an] unambiguous interface --> to assist in --> browsing [the] products
+
+sent_id:25	The interface will be compatible with all major web browsers such as Internet Explorer , Mozilla Navigator , Mozilla Firefox , Opera , and Safari .
+25--> Cluster 1:
+[The] interface --> [will] be compatible --> with [all] major web browsers
+[The] interface --> [will] be compatible with --> [all] major web browsers
+25--> Cluster 2:
+[The] interface --> [will] be compatible --> with Internet Explorer
+[The] interface --> [will] be compatible with --> Internet Explorer
+[The] interface --> [will] be compatible --> with [all] major web browsers such as Internet Explorer
+[The] interface --> [will] be compatible with --> [all] major web browsers such as Internet Explorer
+25--> Cluster 3:
+[The] interface --> [will] be compatible --> with Mozilla Navigator
+[The] interface --> [will] be compatible with --> Mozilla Navigator
+[The] interface --> [will] be compatible --> with [all] major web browsers such as Mozilla Navigator
+[The] interface --> [will] be compatible with --> [all] major web browsers such as Mozilla Navigator
+25--> Cluster 4:
+[The] interface --> [will] be compatible --> with Mozilla Firefox
+[The] interface --> [will] be compatible with --> Mozilla Firefox
+[The] interface --> [will] be compatible --> with [all] major web browsers such as Mozilla Firefox
+[The] interface --> [will] be compatible with --> [all] major web browsers such as Mozilla Firefox
+25--> Cluster 15
+[The] interface --> [will] be compatible --> with Opera
+[The] interface --> [will] be compatible with --> Opera
+[The] interface --> [will] be compatible --> with [all] major web browsers such as Opera
+[The] interface --> [will] be compatible with --> [all] major web browsers such as Opera
+25--> Cluster 6:
+[The] interface --> [will] be compatible --> with Safari
+[The] interface --> [will] be compatible with --> Safari
+[The] interface --> [will] be compatible --> with [all] major web browsers such as Safari
+[The] interface --> [will] be compatible with --> [all] major web browsers such as Safari
+
+sent_id:26	The system shall utilize help bubbles to assist managers , customers , and administrators .
+26--> Cluster 1:
+[The] system --> shall --> utilize help bubbles
+[The] system --> shall --> utilize help bubbles to assist managers
+[The] system --> shall --> utilize help bubbles to assist customers
+[The] system --> shall --> utilize help bubbles to assist administrator
+[The] system --> shall utilize --> help bubbles
+[The] system --> shall utilize --> help bubbles to assist managers
+[The] system --> shall utilize --> help bubbles to assist customers
+[The] system --> shall utilize --> help bubbles to assist administrator
+26--> Cluster 2:
+[system] help bubbles --> to assist --> managers
+26--> Cluster 3:
+[system] help bubbles --> to assist --> customers
+26--> Cluster 4:
+[system] help bubbles --> to assist --> administrator
+
+sent_id:27	The system shall utilize consistent symbols and colors for clear notifications .
+27--> Cluster 1:
+[The] system --> shall --> utilize consistent symbols
+[The] system --> shall --> utilize consistent symbols for clear notifications
+[The] system --> shall --> utilize consistent colors
+[The] system --> shall --> utilize consistent colors for clear notifications
+[The] system --> shall utilize --> consistent symbols
+[The] system --> shall utilize --> consistent symbols for clear notifications
+[The] system --> shall utilize --> consistent colors
+[The] system --> shall utilize --> consistent colors for clear notifications
+
+sent_id:28	The system shall be easily updatable for fixes and patches .
+28--> Cluster 1:
+[The] system --> shall --> be [easily] updatable
+[The] system --> shall --> be [easily] updatable for fixes
+[The] system --> shall --> be [easily] updatable for patches
+
+sent_id:29	A person playing a specific role , a software system , or a hardware device that interacts with a system to achieve a useful goal .
+29--> Cluster 1:
+[A] person --> playing --> [a] specific role
+29--> Cluster 2:
+[a] software system --> interacts --> with [a] system
+[a] software system --> interacts with --> [a] system
+[a] software system --> interacts --> with [a] system to achieve [a] useful goal
+[a] software system --> interacts with --> [a] system to achieve [a] useful goal
+29--> Cluster 3:
+[a] hardware device --> interacts --> with [a] system
+[a] hardware device --> interacts with --> [a] system
+[a] hardware device --> interacts --> with [a] system to achieve [a] useful goal
+[a] hardware device --> interacts with --> [a] system to achieve [a] useful goal
+
+sent_id:30	A policy , guideline , standard , or regulation that defines or constrains some aspect of the business .
+30--> Cluster 1:
+[A] policy --> defines --> [some] aspect of [the] business
+30--> Cluster 2:
+[A] policy --> constrains --> [some] aspect of [the] business
+30--> Cluster 3:
+[A] guideline --> defines --> [some] aspect of [the] business
+30--> Cluster 4:
+[A] guideline --> constrains --> [some] aspect of [the] business
+30--> Cluster 5:
+[A] standard --> defines --> [some] aspect of [the] business
+30--> Cluster 6:
+[A] standard --> constrains --> [some] aspect of [the] business
+30--> Cluster 7:
+[A] regulation --> defines --> [some] aspect of [the] business
+30--> Cluster 8:
+[A] regulation --> constrains --> [some] aspect of [the] business
+
+sent_id:31	System prompts the customer to fill out his / her first name , last name , billing address , shipping address , email address , and their password .
+31--> Cluster 1:
+System --> prompts --> [the] customer
+System --> prompts --> [the] customer to fill out [his] [/] [her] first name
+System --> prompts --> [the] customer to fill out [his] [/] [her] last name
+System --> prompts --> [the] customer to fill out [his] [/] [her] billing address
+System --> prompts --> [the] customer to fill out [his] [/] [her] shipping address
+System --> prompts --> [the] customer to fill out [his] [/] [her] email address
+System --> prompts --> [the] customer to fill out [their] password
+31--> Cluster 2:
+customer --> to fill out --> [his] [/] [her] first name
+31--> Cluster 3:
+customer --> to fill out --> [his] [/] [her] last name
+31--> Cluster 4:
+customer --> to fill out --> [his] [/] [her] billing address
+31--> Cluster 5:
+customer --> to fill out --> [his] [/] [her] shipping address
+31--> Cluster 6:
+customer --> to fill out --> [his] [/] [her] email address
+31--> Cluster 7:
+customer --> to fill out --> [their] password
+
+sent_id:32	System presents the customer with the account details and payment methods .
+32--> Cluster 1:
+System --> presents --> [the] customer 
+System --> presents --> [the] customer [with] [the] account details
+System --> presents --> [the] customer [with] [the] payment methods
+
+sent_id:33	These access modes balance ease and convenience of use against flexibility , control , and the security of the system .
+33--> Cluster 1:
+[These] access modes --> balance --> ease of use
+[These] access modes --> balance --> ease of use against flexibility
+[These] access modes --> balance --> ease of use against control
+[These] access modes --> balance --> ease of use against [the] security of [the] system
+33--> Cluster 2:
+[These] access modes --> balance --> convenience of use
+[These] access modes --> balance --> convenience of use against flexibility
+[These] access modes --> balance --> convenience of use against control
+[These] access modes --> balance --> convenience of use against [the] security of [the] system
+
+sent_id:34	This software must consider target positions , weather conditions , and instrument conﬁgurations .
+34--> Cluster 1:
+[This] software --> must --> consider target positions
+[This] software --> must consider --> target positions
+34--> Cluster 2:
+[This] software --> must --> consider weather conditions
+[This] software --> must consider --> weather conditions
+34--> Cluster 3:
+[This] software --> must --> consider instrument conﬁgurations
+[This] software --> must consider --> instrument conﬁgurations
+
+sent_id:35	Remote operations includes both remote observing , with the science observer offsite , and remote telescope operation , with control of the telescope also offsite .
+35--> Cluster 1:
+Remote operations --> includes --> remote observing
+Remote operations --> includes --> remote observing with [the] science observer offsite
+35--> Cluster 2:
+Remote operations --> includes --> remote telescope operatio
+Remote operations --> includes --> remote telescope operatio with control of [the] telescope [also] offsite
+
+sent_id:36	It also covers remote eavesdropping , monitoring , conﬁguration , and diagnosis .
+36--> Cluster 1:
+It --> [also] covers --> remote eavesdropping
+It [also] --> covers --> remote eavesdropping
+36--> Cluster 2:
+It --> [also] covers --> monitoring
+It [also] --> covers --> monitoring
+36--> Cluster 3:
+It --> [also] covers --> conﬁguration
+It [also] --> covers --> conﬁguration
+36--> Cluster 4:
+It --> [also] covers --> diagnosis
+It [also] --> covers --> diagnosis
+
+sent_id:37	However , user interfaces should clearly reﬂect access modes and operating levels .
+37--> Cluster 1:
+user interfaces --> should --> [clearly] reﬂect access modes
+37--> Cluster 2:
+user interfaces --> should --> [clearly] reﬂect operating levels
+
+sent_id:38	All Gemini software must be version labeled , both in source and binary form .
+38--> Cluster 1:
+[All] Gemini software --> must --> be version labeled
+[All] Gemini software --> must be --> version labeled
+[All] Gemini software --> must --> be version labeled in source form
+[All] Gemini software --> must be --> version labeled in source form
+[All] Gemini software --> must --> be version labeled in binary form
+[All] Gemini software --> must be --> version labeled in binary form
+
+sent_id:39	Effectiveness should be evaluated in terms of cost , space requirements , longevity , and speed .
+39--> Cluster 1:
+Effectiveness --> should --> be evaluated in terms of cost
+Effectiveness --> should be evaluated --> in terms of cost
+Effectiveness --> should be evaluated in --> terms of cost
+Effectiveness --> should --> be evaluated in terms of space requirements
+Effectiveness --> should be evaluated --> in terms of space requirements
+Effectiveness --> should be evaluated in --> terms of space requirements
+Effectiveness --> should --> be evaluated in terms of longevity
+Effectiveness --> should be evaluated --> in terms of longevity
+Effectiveness --> should be evaluated in --> terms of longevity
+Effectiveness --> should --> be evaluated in terms of speed
+Effectiveness --> should be evaluated --> in terms of speed
+Effectiveness --> should be evaluated in --> terms of speed
+
+sent_id:40	This allows the installation and testing of new packages or new releases .
+40--> Cluster 1:
+This --> allows --> [the] installation of [new] packages
+This --> allows --> [the] installation of [new] releases
+40--> Cluster 2:
+This --> allows --> [the] testing of [new] packages
+This --> allows --> [the] testing of [new] releases
+
+sent_id:41	Intermediate storage of raw data in memory on different nodes and in different formats should be kept to a minimum .
+41--> Cluster 1:
+Intermediate storage of raw data in memory on different nodes --> should --> be kept to [a] minimum
+Intermediate storage of raw data in memory on different nodes --> should be kept --> to [a] minimum
+Intermediate storage of raw data in memory on different nodes --> should be kept to --> [a] minimum
+41--> Cluster 2:
+Intermediate storage of raw data in memory in different formats --> should --> be kept to [a] minimum
+Intermediate storage of raw data in memory in different formats --> should be kept --> to [a] minimum
+Intermediate storage of raw data in memory in different formats --> should be kept to --> [a] minimum
+
+sent_id:42	Other astronomical information such as that coming from sky ﬁeld monitors , autoguider cameras and sky monitoring devices such as cloud and seeing monitors shall also be capable of being available .
+42--> Cluster 1:
+[Other] astronomical information --> shall --> [also] be capable of being available
+[Other] astronomical information --> shall [also] be capable --> of being available
+[Other] astronomical information --> shall [also] be capable of --> being available
+42--> Cluster 2:
+[Other] astronomical information [coming] from autoguider cameras --> [shall] [also] [be capable of] being --> available
+information [coming] from autoguider cameras --> [shall] [also] [be capable of] being --> available
+42--> Cluster 3:
+[Other] astronomical information [coming] from sky monitoring devices --> [shall] [also] [be capable of] being --> available
+information [coming] from sky monitoring devices --> [shall] [also] [be capable of] being --> available
+42--> Cluster 4:
+[Other] astronomical information [coming] from cloud monitors --> shall [also] [be capable of] being --> available
+information [coming] from cloud monitors --> shall [also] [be capable of] being --> available
+42--> Cluster 5:
+[Other] astronomical information [coming] from seeing monitors --> shall [also] [be capable of] being --> available
+information [coming] from seeing monitors --> shall [also] [be capable of] being --> available
+42--> Cluster 6:
+[Other] astronomical information [coming] from sky ﬁeld monitors --> shall [also] [be capable of] being --> available
+information [coming] from sky ﬁeld monitors --> shall [also] [be capable of] being --> available
+
+sent_id:43	Operation of telescope , instruments and subsystems can be carried out at three different levels .
+43--> Cluster 1:
+Operation of telescope --> can --> be carried out at three [different] levels
+Operation of telescope --> can be carried out --> at three [different] levels
+Operation of telescope --> can be carried out at --> three [different] levels
+43--> Cluster 2:
+Operation of instruments --> can --> be carried out at three [different] levels
+Operation of instruments --> can be carried out --> at three [different] levels
+Operation of instruments --> can be carried out at --> three [different] levels
+43--> Cluster 3:
+Operation of subsystems --> can --> be carried out at three [different] levels
+Operation of subsystems --> can be carried out --> at three [different] levels
+Operation of subsystems --> can be carried out at --> three [different] levels
+
+sent_id:44	Privileges and protections are also important parameters to deﬁne user operations .
+44--> Cluster 1:
+Privileges --> are --> [also] [important] parameters
+Privileges --> are --> [also] [important] parameters to deﬁne user operations
+44--> Cluster 2:
+protections --> are --> [also] [important] parameters
+protections --> are --> [also] [important] parameters to deﬁne user operations
+
+sent_id:45	There must be automatic procedures to implement startup and shutdown of the telescope and instruments .
+45--> Cluster 1:
+There --> must --> be automatic procedures
+There --> must be --> automatic procedures
+There --> must --> be automatic procedures to implement startup of [the] telescope
+There --> must be --> automatic procedures to implement startup of [the] telescope
+There --> must --> be automatic procedures to implement startup of [the] instruments
+There --> must be --> automatic procedures to implement startup of [the] instruments
+There --> must --> be automatic procedures to implement shutdown of [the] telescope
+There --> must be --> automatic procedures to implement shutdown of [the] telescope
+There --> must --> be automatic procedures to implement shutdown of [the] instruments
+There --> must be --> automatic procedures to implement shutdown of [the] instruments
+45--> Cluster 2:
+automatic procedures --> to implement --> startup of [the] telescope
+automatic procedures --> to implement --> startup of [the] instruments
+45--> Cluster 3:
+automatic procedures --> to implement --> shutdown of [the] telescope
+automatic procedures --> to implement --> shutdown of [the] instruments
+
+sent_id:46	A standard set of interface cards to be used on all the subsystems and instruments .
+46--> Cluster 1:
+[A] [standard] [set of] interface cards --> to be --> used on [all] [the] subsystems
+[A] [standard] [set of] interface cards --> to be used --> on [all] [the] subsystems
+[A] [standard] [set of] interface cards --> to be used on --> [all] [the] subsystems
+46--> Cluster 2:
+[A] [standard] [set of] interface cards --> to be --> used on [all] [the] instruments
+[A] [standard] [set of] interface cards --> to be used --> on [all] [the] instruments
+[A] [standard] [set of] interface cards --> to be used on --> [all] [the] instruments
+
+sent_id:47	The Gemini 8m Telescopes software covers all aspects of control and data acquisition related to the telescope , instruments , and auxiliary instrumentation .
+47--> Cluster 1:
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of control
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of control related to [the] telescope
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of control related to [the] instruments
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of control related to [the] auxiliary instrumentation
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of data acquisition
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of data acquisition related to [the] telescope
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of data acquisition related to [the] instruments
+[The] Gemini 8m Telescopes software --> covers --> [all] aspects of data acquisition related to [the] auxiliary instrumentation
+
+sent_id:48	All telescope , instrument , and detector control information is to be available at any operation level .
+48--> Cluster 1:
+[All] telescope information --> is --> to be available at [any] operation level
+48--> Cluster 2:
+[All] instrument information --> is --> to be available at [any] operation level
+48--> Cluster 3:
+[All] detector control information --> is --> to be available at [any] operation level
+
+sent_id:49	This operation is complemented by using previously stored data , calibrations , and star catalogs .
+49--> Cluster 1:
+[This] operation --> is --> complemented by using [previously] [stored] data
+[This] operation --> is --> complemented by using [previously] [stored] calibrations
+[This] operation --> is --> complemented by using [previously] [stored] star catalogs
+49--> Cluster 2:
+[This] operation --> is complemented --> by using [previously] [stored] data
+[This] operation --> is complemented by --> using [previously] [stored] data
+[This] operation --> is complemented --> by using [previously] [stored] calibrations
+[This] operation --> is complemented by --> using [previously] [stored] calibrations
+[This] operation --> is complemented --> by using [previously] [stored] star catalogs
+[This] operation --> is complemented by --> using [previously] [stored] star catalogs
+
+sent_id:50	A mask can be set to specify value changes , alarm state changes , and / or archive changes .
+50--> Cluster 1:
+[A] mask --> can --> be set to specify value changes
+[A] mask --> can be set --> to specify value changes
+[A] mask --> can be set to --> specify value changes
+[A] mask --> can --> be set to specify alarm state changes
+[A] mask --> can be set --> to specify alarm state changes
+[A] mask --> can be set to --> specify alarm state changes
+[A] mask --> can --> be set to specify archive changes
+[A] mask --> can be set --> to specify archive changes
+[A] mask --> can be set to --> specify archive changes
